@@ -40,14 +40,18 @@
 - **확인**: 섹션 제목의 띄어쓰기와 대소문자를 다시 대조해 봄
 - **해결/대안**: 앵커 이름을 섹션 제목과 동일하게 수정하여 클릭 시 해당 위치로 이동하도록 해결
 
-### 터미널 조작 로그.
-터미널 기초 조작.
-pwd (Print Working Directory): 현재 내가 위치한 디렉토리의 절대 경로 확인
-mkdir practice_folder (Make Directory): 새로운 실습용 디렉토리 생성
-cd practice_folder (Change Directory): 생성한 디렉토리 내부로 이동
-touch file.txt: 빈 텍스트 파일 생성
-touch .hidden.txt: 파일명 앞에 점(.)을 붙여 숨김 파일 생성
-s -la (List All & Long format): 숨김 파일을 포함한 전체 목록을 권한, 크기, 수정일과 함께 상세 조회
+## 터미널 조작 로그.
+-**pwd** (Print Working Directory): 현재 내가 위치한 디렉토리의 절대 경로 확인
+
+-**mkdir practice_folder** (Make Directory): 새로운 실습용 디렉토리 생성
+
+-**cd practice_folder** (Change Directory): 생성한 디렉토리 내부로 이동
+
+-**touch file.txt**: 빈 텍스트 파일 생성
+
+-**touch .hidden.txt**: 파일명 앞에 점(.)을 붙여 숨김 파일 생성
+
+-**s -la** (List All & Long format): 숨김 파일을 포함한 전체 목록을 권한, 크기, 수정일과 함께 상세 조회
 
 <img width="786" height="1612" alt="스크린샷 2026-10-30 011908" src="https://github.com/user-attachments/assets/bfa39509-47b0-42bf-a64e-956cdd1ee21e" />
 
